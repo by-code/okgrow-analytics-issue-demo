@@ -11,6 +11,7 @@ To run app run
 ```
 $ meteor npm install
 $ meteor run --settings settings.json
+```
 
 ## Demo
 To see the difference go to your Google Analytics dashboard -> Real-time -> Events.
